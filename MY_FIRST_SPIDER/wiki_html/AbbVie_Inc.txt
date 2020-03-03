@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>AbbVie Inc. - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xl2FugpAMNIAAfY9RJYAAABS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"AbbVie_Inc.","wgTitle":"AbbVie Inc.","wgCurRevisionId":943613079,"wgRevisionId":943613079,"wgArticleId":37665564,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Articles with short description","AbbVie Inc.","2013 establishments in Illinois","Biotechnology companies of the United States",
+"Companies based in Lake County, Illinois","Biotechnology companies established in 2013","Pharmaceutical companies established in 2013","American companies established in 2013","Companies listed on the New York Stock Exchange","Orphan drug companies","Pharmaceutical companies of the United States","Health care companies based in Illinois","Corporate spin-offs","Abbott Laboratories","2013 initial public offerings"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"AbbVie_Inc.","wgRelevantArticleId":37665564,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q14662364","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=AbbVie_Inc.&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=AbbVie_Inc.&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/AbbVie_Inc."/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-AbbVie_Inc rootpage-AbbVie_Inc skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">AbbVie Inc.</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">US pharmaceutical company</div>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">AbbVie Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:AbbVie_logo.svg" class="image"><img alt="AbbVie logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AbbVie_logo.svg/220px-AbbVie_logo.svg.png" decoding="async" width="220" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AbbVie_logo.svg/330px-AbbVie_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/AbbVie_logo.svg/440px-AbbVie_logo.svg.png 2x" data-file-width="512" data-file-height="100" /></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded&#160;as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>:&#160;<a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ABBV">ABBV</a><br /><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100 component</a><br /><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US00287Y1091">US00287Y1091&#160;</a><a href="https://www.wikidata.org/wiki/Q14662364?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Biopharmaceutical" title="Biopharmaceutical">Biopharmaceutical</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">2013<span class="noprint">&#59;&#32;7&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2013</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Lake_Bluff,_Illinois" title="Lake Bluff, Illinois">Lake Bluff</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide<br /><small>(170+ Countries)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Richard A. Gonzalez<br /><span style="font-size:85%;">(<a href="/wiki/Chairman#Public_corporations" class="mw-redirect" title="Chairman">Chairman</a> &amp; <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Medication" title="Medication">Pharmaceutical drugs</a><br />
+<ul><li><a href="/wiki/Adalimumab" title="Adalimumab">Humira (adalimumab)</a></li>
+<li><a href="/wiki/Ibrutinib" title="Ibrutinib">Imbruvica (ibrutinib)</a></li>
+<li><a href="/wiki/Venetoclax" title="Venetoclax">Venclexta (venetoclax)</a></li>
+<li><a href="/wiki/Daclizumab" title="Daclizumab">Zinbryta (daclizumab)</a></li>
+<li><a href="/wiki/Lopinavir" title="Lopinavir">Kaletra (lopinavir)</a></li>
+<li><a href="/wiki/Ritonavir" title="Ritonavir">Norvir (ritonavir)</a></li>
+<li><a href="/wiki/Glecaprevir/pibrentasvir" title="Glecaprevir/pibrentasvir">Mavyret/Maviret (glecaprevir/pibrentasvir)</a></li></ul>
+</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>32.753 billion</span> <span style="font-size:85%;">(2018)<sup id="cite_ref-“10-K”_1-0" class="reference"><a href="#cite_note-“10-K”-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> <span style="white-space: nowrap">US$6.383 billion</span> <span style="font-size:85%;">(2018)<sup id="cite_ref-“10-K”_1-1" class="reference"><a href="#cite_note-“10-K”-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> <span style="white-space: nowrap">US$5.687 billion</span> <span style="font-size:85%;">(2018)<sup id="cite_ref-“10-K”_1-2" class="reference"><a href="#cite_note-“10-K”-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> <span style="white-space: nowrap">US$59.352 billion</span> <span style="font-size:85%;">(2018)<sup id="cite_ref-“10-K”_1-3" class="reference"><a href="#cite_note-“10-K”-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> <span style="white-space: nowrap">US$-8.446 billion</span> <span style="font-size:85%;">(2018)<sup id="cite_ref-“10-K”_1-4" class="reference"><a href="#cite_note-“10-K”-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">~30,000 <span style="font-size:85%;">(January 2019)<sup id="cite_ref-“10-K”_1-5" class="reference"><a href="#cite_note-“10-K”-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://abbvie.com">abbvie<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>AbbVie</b> is an American publicly traded <a href="/wiki/Biopharmaceutical" title="Biopharmaceutical">biopharmaceutical</a> company founded in 2013. It originated as a <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">spin-off</a> of <a href="/wiki/Abbott_Laboratories" title="Abbott Laboratories">Abbott Laboratories</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Acquisitions"><span class="tocnumber">2</span> <span class="toctext">Acquisitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Acquisition_history"><span class="tocnumber">2.1</span> <span class="toctext">Acquisition history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Collaboration"><span class="tocnumber">3</span> <span class="toctext">Collaboration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Products"><span class="tocnumber">4</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On October 19, 2011, <a href="/wiki/Abbott_Laboratories" title="Abbott Laboratories">Abbott Laboratories</a> announced its plan to separate into two publicly traded companies. The new Abbott Laboratories would specialize in diversified products including medical devices, diagnostic equipment and nutrition products, while AbbVie would operate as a research-based pharmaceutical manufacturer.<sup id="cite_ref-The_New_York_Times_2-0" class="reference"><a href="#cite_note-The_New_York_Times-2">&#91;2&#93;</a></sup> The separation was effective January 1, 2013, and AbbVie was officially listed on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a> (ABBV) on January 2, 2013.<sup id="cite_ref-AbbVie_Press_Release_3-0" class="reference"><a href="#cite_note-AbbVie_Press_Release-3">&#91;3&#93;</a></sup>
+</p><p>According to Miles White, CEO at the time, the purpose of the split was to allow markets to value the two businesses separately; White said that investors would "benefit from two fundamentally different investment opportunities with distinct strategic profiles and business priorities."<sup id="cite_ref-Chicago_Tribune_4-0" class="reference"><a href="#cite_note-Chicago_Tribune-4">&#91;4&#93;</a></sup>  Some investors were concerned that the split was done to protect the value of the device business from the loss of value facing the drug division due to the imminent expiration of patents on <a href="/wiki/Humira" class="mw-redirect" title="Humira">Humira</a>, which accounted for about half of the drug division's revenue.<sup id="cite_ref-Chicago_Tribune_4-1" class="reference"><a href="#cite_note-Chicago_Tribune-4">&#91;4&#93;</a></sup>
+</p><p>As of December 2015, the company employed in excess of 28,000 globally, and provided products to individuals in more than 170 countries.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Acquisitions">Acquisitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=2" title="Edit section: Acquisitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In January 2014, the company acquired ImmuVen for an undisclosed sum.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> On September 3, 2014, AbbVie and Infinity Pharmaceuticals announced that they had entered into a global collaboration to develop and commercialize <a href="/wiki/Duvelisib" title="Duvelisib">duvelisib</a>, Infinity's PI3K inhibitor for the treatment of patients with cancer. On the same day, AbbVie and <a href="/wiki/Calico_(company)" title="Calico (company)">Calico</a> announced that they had entered into a <a href="/wiki/Research_and_development" title="Research and development">R&amp;D</a> collaboration intended to discover, develop and bring to market new therapies for patients with age-related diseases including <a href="/wiki/Neurodegeneration" title="Neurodegeneration">neurodegeneration</a> and cancer. Calico (California Life Company) is an <a href="/wiki/Alphabet_Inc." title="Alphabet Inc.">Alphabet Inc.</a> subsidiary led by <a href="/wiki/Arthur_D._Levinson" title="Arthur D. Levinson">Arthur D. Levinson</a> (former Chairman and CEO of <a href="/wiki/Genentech" title="Genentech">Genentech</a>) and <a href="/wiki/Hal_V._Barron" title="Hal V. Barron">Hal V. Barron</a> (former Executive Vice President and Chief Medical Officer of Genentech) that is focused on aging and age-related diseases.<sup id="cite_ref-Genetic_Engineering_&amp;_Biotechnology_News_7-0" class="reference"><a href="#cite_note-Genetic_Engineering_&amp;_Biotechnology_News-7">&#91;7&#93;</a></sup>
+</p><p>In October 2014, after a long negotiation, AbbVie stopped its efforts to acquire <a href="/wiki/Shire_(pharmaceutical_company)" title="Shire (pharmaceutical company)">Shire</a>, which would have been one of the largest M&amp;A deals of that year and one of the largest <a href="/wiki/Tax_inversion" title="Tax inversion">tax inversions</a> in history, due to changes in the US tax code by the US Treasury; AbbVie had to pay a $1.6 billion breakup fee.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>On March 4, 2015, AbbVie announced its agreement to acquire the <a href="/wiki/Oncology" title="Oncology">oncology</a> firm <a href="/wiki/Pharmacyclics" title="Pharmacyclics">Pharmacyclics</a> and its treatment for blood cancers, <a href="/wiki/Ibrutinib" title="Ibrutinib">ibrutinib</a>; <a href="/wiki/AstraZeneca" title="AstraZeneca">AstraZeneca</a> had also been bidding to acquire Pharmacyclics.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Under the terms of the transaction, AbbVie agreed to pay $261.25 per share as a mix of cash and AbbVie equity. The acquisition valued at approximately $21 billion was completed on May 26, 2015.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The Pharmacyclics name was retained, and it operates as a subsidiary of AbbVie from its previous <a href="/wiki/Sunnyvale,_California" title="Sunnyvale, California">Sunnyvale, California</a>, headquarters.<sup id="cite_ref-StreetInsider.com_12-0" class="reference"><a href="#cite_note-StreetInsider.com-12">&#91;12&#93;</a></sup>  On June 3, 2015, AbbVie and Halozyme Therapeutics announced that they had entered into a global collaboration and licensing agreement to develop and commercialize products that combine AbbVie’s treatments and Halozyme’s ENHANZE drug-delivery technology, this was terminated in November 2016.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>On 28 April 2016, the company announced it would acquire Stemcentrx for up to $9.8 billion.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> A day later, the company announced an expansion of a two and a half-year-old cystic fibrosis deal with <a href="/wiki/Galapagos_NV" title="Galapagos NV">Galapagos</a>, potentially doubling milestone payments to $600 million.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>On 25 June 2019, AbbVie announced it would acquire Irish-based <a href="/wiki/Allergan_plc" class="mw-redirect" title="Allergan plc">Allergan plc</a> for about $63 billion; however the transaction would not be structured as a <a href="/wiki/Tax_inversion" title="Tax inversion">tax inversion</a>, and that post the transaction, AbbVie (and the group) would remain legally domiciled in the U.S. for tax purposes.<sup id="cite_ref-abbvieguardian_16-0" class="reference"><a href="#cite_note-abbvieguardian-16">&#91;16&#93;</a></sup><sup id="cite_ref-abbviebloomberg_17-0" class="reference"><a href="#cite_note-abbviebloomberg-17">&#91;17&#93;</a></sup> In July, the company announced it would acquire Mavupharma, boosting its cancer drug pipeline.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Acquisition_history">Acquisition history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=3" title="Edit section: Acquisition history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="mw-collapsible mw-collapsible-leftside-toggle mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;background:white;">The following is an illustration of the company's major mergers and acquisitions and historical predecessors (this is not a comprehensive list):</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<style data-mw-deduplicate="TemplateStyles:r886050385">.mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url("//upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px}</style><div class="treeview">
+<ul><li><b>Abbvie</b> <small>(Spun of from Abbott Laboratories)</small>
+<ul><li><a href="/wiki/Pharmacyclics" title="Pharmacyclics">Pharmacyclics</a> <small>(Acq 2015)</small></li>
+<li>Stemcentrx <small>(Acq 2016)</small></li>
+<li>Venice Subsidiary LLC<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+<ul><li><a href="/wiki/Allergan,_plc" class="mw-redirect" title="Allergan, plc">Allergan, plc</a> <small>(Acq 2019)</small>
+<ul><li><a href="/wiki/Allergan,_inc" class="mw-redirect" title="Allergan, inc">Allergan, inc</a>
+<ul><li>MAP Pharmaceuticals Inc <small>(Acq 2013)</small></li>
+<li>Kythera Biopharmaceuticals <small>(Acq 2015)</small></li></ul></li>
+<li><a href="/wiki/Actavis_plc" class="mw-redirect" title="Actavis plc">Actavis plc</a>
+<ul><li>Eden Biodesign</li>
+<li>Watson Pharmaceuticals</li>
+<li>Warner Chilcott Plc <small>(Acq 2000)</small></li>
+<li>Andrx Corporation <small>(Acq 2006)</small></li>
+<li>Procter &amp; Gamble <small>(Prescription drug div, Acq 2009)</small></li>
+<li>Arrow Group <small>(Acq 2009)</small></li>
+<li>Specifar Pharmaceuticals S.A. <small>(Acq 2011)</small></li>
+<li>Ascent Pharmahealth Ltd <small>(Acq 2012)</small></li>
+<li>Actavis Group <small>(Acq 2012)</small></li>
+<li>Galen <small>(Acq 2013)</small></li>
+<li>Uteron Pharma, S.A. <small>(Acq 2013)</small></li>
+<li>Durata Therapeutics <small>(Acq 2014)</small></li>
+<li>Silom Medical Company <small>(Acq 2014)</small></li>
+<li><a href="/wiki/Forest_Laboratories" title="Forest Laboratories">Forest Laboratories</a> <small>(Acq 2014)</small>
+<ul><li>Aptalis Pharma
+<ul><li>Axcan Pharma</li>
+<li>Eurand Pharmaceuticals</li></ul></li>
+<li>Furiex Pharmaceuticals Inc <small>(Acq 2014)</small></li></ul></li>
+<li>Auden Mckenzie Holdings Limited <small>(Acq 2015)</small></li></ul></li>
+<li>Oculeve, Inc <small>(Acq 2015)</small></li>
+<li>Naurex Inc <small>(Acq 2015)</small></li>
+<li>AqueSys <small>(Acq 2015)</small></li>
+<li>Northwood Medical Innovation Ltd <small>(Acq 2015)</small></li>
+<li>Topokine Therapeutics <small>(Acq 2016)</small></li>
+<li>Vitae Pharmaceuticals, Inc <small>(Acq 2016)</small></li>
+<li>Tobira Therapeutics <small>(Acq 2016)</small></li>
+<li>ForSight VISION5 <small>(Acq 2016)</small></li>
+<li>RetroSense Therapeutics <small>(Acq 2016)</small></li>
+<li>Akarna Therapeutics <small>(Acq 2016)</small></li>
+<li>Motus Therapeutics <small>(Acq 2016)</small></li>
+<li>Chase Pharmaceuticals <small>(Acq 2016)</small></li>
+<li>LifeCell <small>(Acq 2016)</small></li>
+<li>Zeltiq Aesthetics Inc. <small>(Acq 2017)</small></li>
+<li>Keller Medical, Inc <small>(Acq 2017)</small></li>
+<li><a href="/wiki/Repros_Therapeutics" title="Repros Therapeutics">Repros Therapeutics</a> <small>(Acq 2017)</small></li>
+<li>Envy Medical, Inc. <small>(Acq 2019)</small></li>
+<li>Mavupharma <small>(Acq 2019)</small></li></ul></li></ul></li></ul></li></ul>
+</div>
+</div></div>
+<h2><span class="mw-headline" id="Collaboration">Collaboration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=4" title="Edit section: Collaboration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On February 10, 2016, AbbVie and <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>-based Synlogic announced a multi-year R&amp;D collaboration. Synlogic is a synthetic biology company built on research from the labs of <a href="/wiki/James_Collins_(bioengineer)" title="James Collins (bioengineer)">James Collins</a> and Tim Lu at <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a>. As part of the collaboration, AbbVie is getting worldwide rights to Synlogic’s <a href="/wiki/Probiotic" title="Probiotic">probiotic</a>-based technology for treating <a href="/wiki/Inflammatory_bowel_disease" title="Inflammatory bowel disease">inflammatory bowel disease</a>, and the research teams will focus on <a href="/wiki/Crohn%E2%80%99s_disease" class="mw-redirect" title="Crohn’s disease">Crohn’s disease</a> and <a href="/wiki/Ulcerative_colitis" title="Ulcerative colitis">ulcerative colitis</a>.<sup id="cite_ref-Forbes_21-0" class="reference"><a href="#cite_note-Forbes-21">&#91;21&#93;</a></sup> In April 2016, the company partnered with the <a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a> to investigate a number of areas of oncology: breast, lung, prostate, colorectal and hematological cancers.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> In the same month the company announced it would co-commercialize Argenx's preclinical immunotherapy, ARGX-115. ARGX-115 is a first-in-class immunotherapy targeting GARP (glycoprotein A repetitions predominant), a membrane protein believed to enhance the immunosuppressive effects of <a href="/wiki/T_cells" class="mw-redirect" title="T cells">T cells</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The company also announced a deal to co-develop/commercialize at least one of CytomX Probody's conjugates against <a href="/wiki/CD71" class="mw-redirect" title="CD71">CD71</a> (transferrin receptor 1).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=5" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <a href="/wiki/Wall_Street_Journal" class="mw-redirect" title="Wall Street Journal">Wall Street Journal</a> as of January 2016 <a href="/wiki/Ibrutinib" title="Ibrutinib">ibrutinib</a>, a <a href="/wiki/Specialty_drug" class="mw-redirect" title="Specialty drug">specialty drug</a>, cost US$116,600 to $155,400 a year wholesale in the United States. In spite of discounts and medical insurance, the prohibitive price causes some patients to not fill their prescriptions.<sup id="cite_ref-WSJ_2016_jan_25-0" class="reference"><a href="#cite_note-WSJ_2016_jan-25">&#91;25&#93;</a></sup> AbbVie estimates global sales of the drug at $1 billion in 2016 and $5 billion in 2020.<sup id="cite_ref-WSJ_2016_jan_25-1" class="reference"><a href="#cite_note-WSJ_2016_jan-25">&#91;25&#93;</a></sup>
+</p><p>In 2018 it started litigation against <a href="/wiki/NHS_England" title="NHS England">NHS England</a> in the <a href="/wiki/Technology_and_Construction_Court" title="Technology and Construction Court">Technology and Construction Court</a> claiming that they breached procurement rules and had not treated the company fairly during what was described as "the single largest medicines procurement ever done by the NHS" when seeking suppliers for <a href="/wiki/Hepatitis_C" title="Hepatitis C">hepatitis C</a> treatments.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> In 2019, a UK court dismissed AbbVie's case against the NHS. <sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>As of 2019, the company remained committed to product development in the <a href="/wiki/Cystic_fibrosis" title="Cystic fibrosis">cystic fibrosis</a> disease area, despite major success by their main competitor in the area, <a href="/wiki/Vertex_Pharmaceuticals" title="Vertex Pharmaceuticals">Vertex</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-“10-K”-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-“10-K”_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-“10-K”_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-“10-K”_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-“10-K”_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-“10-K”_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-“10-K”_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://last10k.com/sec-filings/abbv#link_fullReport">"AbbVie Inc. 2018 Annual Report (Form 10-K)"</a>. <i>last10k.com</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. February 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=last10k.com&amp;rft.atitle=AbbVie+Inc.+2018+Annual+Report+%28Form+10-K%29&amp;rft.date=2019-02&amp;rft_id=https%3A%2F%2Flast10k.com%2Fsec-filings%2Fabbv%23link_fullReport&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-The_New_York_Times-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_New_York_Times_2-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://dealbook.nytimes.com/2011/10/19/abbott-to-split-into-two/?_r=0">"Abbott Labs to Split Into 2 Companies"</a>. <i>The New York Times</i>. October 19, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">October 19,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Abbott+Labs+to+Split+Into+2+Companies&amp;rft.date=2011-10-19&amp;rft_id=https%3A%2F%2Fdealbook.nytimes.com%2F2011%2F10%2F19%2Fabbott-to-split-into-two%2F%3F_r%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-AbbVie_Press_Release-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-AbbVie_Press_Release_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130114034619/http://abbvie.mediaroom.com/2013-01-02-AbbVie-Celebrates-Launch-as-New-Biopharmaceutical-Company-with-Employees-Patients">"Abbott Completes Separation of Research-Based Pharmaceuticals Business"</a>. AbbVie Inc. January 2, 2013. Archived from <a rel="nofollow" class="external text" href="http://abbvie.mediaroom.com/2013-01-02-AbbVie-Celebrates-Launch-as-New-Biopharmaceutical-Company-with-Employees-Patients">the original</a> on January 14, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Abbott+Completes+Separation+of+Research-Based+Pharmaceuticals+Business&amp;rft.pub=AbbVie+Inc.&amp;rft.date=2013-01-02&amp;rft_id=http%3A%2F%2Fabbvie.mediaroom.com%2F2013-01-02-AbbVie-Celebrates-Launch-as-New-Biopharmaceutical-Company-with-Employees-Patients&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Chicago_Tribune-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chicago_Tribune_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chicago_Tribune_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://articles.chicagotribune.com/2012-12-30/business/ct-biz-1230-bf-abbott-spin-20121230_1_longtime-abbott-executive-abbvie-abbott-laboratories">"More than splitting pills: Health care giant Abbott Laboratories ready to spin off AbbVie"</a>. <i>Chicago Tribune</i>. December 30, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=More+than+splitting+pills%3A+Health+care+giant+Abbott+Laboratories+ready+to+spin+off+AbbVie&amp;rft.date=2012-12-30&amp;rft_id=http%3A%2F%2Farticles.chicagotribune.com%2F2012-12-30%2Fbusiness%2Fct-biz-1230-bf-abbott-spin-20121230_1_longtime-abbott-executive-abbvie-abbott-laboratories&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.abbvie.com/about-us/home.html">"AbbVie - About Us"</a>. <i>abbvie.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=abbvie.com&amp;rft.atitle=AbbVie+-+About+Us&amp;rft_id=http%3A%2F%2Fwww.abbvie.com%2Fabout-us%2Fhome.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.crunchbase.com/organization/abbvie/acquisitions">"AbbVie - Acquisitions - crunchbase"</a>. <i>www.crunchbase.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.crunchbase.com&amp;rft.atitle=AbbVie+-+Acquisitions+-+crunchbase&amp;rft_id=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fabbvie%2Facquisitions&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Genetic_Engineering_&amp;_Biotechnology_News-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Genetic_Engineering_&amp;_Biotechnology_News_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/google-backed-calico-joins-abbvie-in-up-to-1-5b-collaboration/81250303">"Google-Backed Calico Joins AbbVie in Up to $1.5B Collaboration"</a>. Genetic Engineering &amp; Biotechnology News. September 3, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google-Backed+Calico+Joins+AbbVie+in+Up+to+%241.5B+Collaboration&amp;rft.pub=Genetic+Engineering+%26+Biotechnology+News&amp;rft.date=2014-09-03&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fgoogle-backed-calico-joins-abbvie-in-up-to-1-5b-collaboration%2F81250303&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Gelles, David (2014). <a rel="nofollow" class="external text" href="https://dealbook.nytimes.com/2014/10/20/abbvie-and-shire-agree-to-terminate-their-deal/?_r=0">"After Tax Inversion Rules Change, AbbVie and Shire Agree to Terminate Their Deal"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (online, October 20 ed.). Zacks Equity Research.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=After+Tax+Inversion+Rules+Change%2C+AbbVie+and+Shire+Agree+to+Terminate+Their+Deal&amp;rft.date=2014&amp;rft.au=Gelles%2C+David&amp;rft_id=https%3A%2F%2Fdealbook.nytimes.com%2F2014%2F10%2F20%2Fabbvie-and-shire-agree-to-terminate-their-deal%2F%3F_r%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nisen, Max (2015). <a rel="nofollow" class="external text" href="http://www.chicagobusiness.com/article/20151217/NEWS03/151219843/astrazeneca-chases-abbvie-cheaply">"AstraZeneca Chases AbbVie, Cheaply"</a>. <i>Chicago Business</i> (online, December 17 ed.). Crain's<span class="reference-accessdate">. Retrieved <span class="nowrap">31 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Business&amp;rft.atitle=AstraZeneca+Chases+AbbVie%2C+Cheaply&amp;rft.date=2015&amp;rft.au=Nisen%2C+Max&amp;rft_id=http%3A%2F%2Fwww.chicagobusiness.com%2Farticle%2F20151217%2FNEWS03%2F151219843%2Fastrazeneca-chases-abbvie-cheaply&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Staff (1 April 2015). <a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/abbvie-acquires-oncology-drug-firm-pharmacyclics-for-21b/81250997/">"AbVie Acquires Oncology Drug Firm Pharmacyclics for $21B"</a>. News: Industry Watch. <i><a href="/wiki/Gen._Eng._Biotechnol._News" class="mw-redirect" title="Gen. Eng. Biotechnol. News">Genetic Engineering &amp; Biotechnology News</a></i> (Paper). <b>35</b> (5): 10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Genetic+Engineering+%26+Biotechnology+News&amp;rft.atitle=AbVie+Acquires+Oncology+Drug+Firm+Pharmacyclics+for+%2421B&amp;rft.volume=35&amp;rft.issue=5&amp;rft.pages=10&amp;rft.date=2015-04-01&amp;rft.au=Staff&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fabbvie-acquires-oncology-drug-firm-pharmacyclics-for-21b%2F81250997%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Rockoff, Jonathan D.; Loftus, Peter (5 March 2015). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/abbvie-to-buy-pharmacyclics-in-21-billion-deal-1425528086">"AbbVie to Buy Pharmacyclics in $21 Billion Deal"</a>. <i>The Wall Street Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=AbbVie+to+Buy+Pharmacyclics+in+%2421+Billion+Deal&amp;rft.date=2015-03-05&amp;rft.aulast=Rockoff&amp;rft.aufirst=Jonathan+D.&amp;rft.au=Loftus%2C+Peter&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fabbvie-to-buy-pharmacyclics-in-21-billion-deal-1425528086&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/><span style="font-size:0.95em; font-size:90%; color:#555">(subscription required)</span></span>
+</li>
+<li id="cite_note-StreetInsider.com-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-StreetInsider.com_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.streetinsider.com/Corporate+News/AbbVie+(ABBV)+Announces+Completion+of+Pharmacyclics+Acquisition/10594347.html">"AbbVie (ABBV) Announces Completion of Pharmacyclics Acquisition"</a>. StreetInsider.com. May 26, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AbbVie+%28ABBV%29+Announces+Completion+of+Pharmacyclics+Acquisition&amp;rft.pub=StreetInsider.com&amp;rft.date=2015-05-26&amp;rft_id=http%3A%2F%2Fwww.streetinsider.com%2FCorporate%2BNews%2FAbbVie%2B%28ABBV%29%2BAnnounces%2BCompletion%2Bof%2BPharmacyclics%2BAcquisition%2F10594347.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/abbvie-terminates-development-deal-with-halozyme/81253454">"Abbvie Terminates Development Deal with Halozyme - GEN"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=Abbvie+Terminates+Development+Deal+with+Halozyme+-+GEN&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fabbvie-terminates-development-deal-with-halozyme%2F81253454&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/abbvie-to-acquire-stemcentrx-for-up-to-9-8b/81252666/">"AbbVie to Acquire Stemcentrx for Up to $9.8B"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=AbbVie+to+Acquire+Stemcentrx+for+Up+to+%249.8B&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fabbvie-to-acquire-stemcentrx-for-up-to-9-8b%2F81252666%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/galapagos-abbvie-expand-cf-collaboration-to-up-to-600m/81252672/">"Galapagos, AbbVie Expand CF Collaboration to Up-to-$600M"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=Galapagos%2C+AbbVie+Expand+CF+Collaboration+to+Up-to-%24600M&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fgalapagos-abbvie-expand-cf-collaboration-to-up-to-600m%2F81252672%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-abbvieguardian-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-abbvieguardian_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Julia Kollewe (25 June 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/business/2019/jun/25/botox-maker-allergan-bought-by-us-drug-giant-abbvie-for-63bn">"Botox maker Allergan bought by US drug giant for $63bn"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Botox+maker+Allergan+bought+by+US+drug+giant+for+%2463bn&amp;rft.date=2019-06-25&amp;rft.au=Julia+Kollewe&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2019%2Fjun%2F25%2Fbotox-maker-allergan-bought-by-us-drug-giant-abbvie-for-63bn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-abbviebloomberg-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-abbviebloomberg_17-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rebecca Spalding; Riley Griffin (25 June 2019). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2019-06-25/abbvie-in-63-billion-deal-to-buy-botox-maker-allergan">"AbbVie Strikes $63 Billion Deal for Botox Maker Allergan"</a>. <a href="/wiki/Bloomberg_News" title="Bloomberg News">Bloomberg News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2019</span>. <q>The deal will return Allergan to the U.S., at least for tax purposes.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=AbbVie+Strikes+%2463+Billion+Deal+for+Botox+Maker+Allergan&amp;rft.date=2019-06-25&amp;rft.au=Rebecca+Spalding&amp;rft.au=Riley+Griffin&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2019-06-25%2Fabbvie-in-63-billion-deal-to-buy-botox-maker-allergan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/abbvie-dives-into-sting-and-boehringer-ingelheim-snaps-up-swiss-based-amal/">"AbbVie Dives into STING and Boehringer Ingelheim Snaps Up Swiss-based AMAL"</a>. <i>BioSpace</i>. July 15, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=AbbVie+Dives+into+STING+and+Boehringer+Ingelheim+Snaps+Up+Swiss-based+AMAL&amp;rft.date=2019-07-15&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fabbvie-dives-into-sting-and-boehringer-ingelheim-snaps-up-swiss-based-amal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/abbvie-enhances-early-stage-oncology-pipeline-with-acquisition-of-mavupharma/">"AbbVie Enhances Early Stage Oncology Pipeline with Acquisition of Mavupharma"</a>. <i>BioSpace</i>. July 15, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=AbbVie+Enhances+Early+Stage+Oncology+Pipeline+with+Acquisition+of+Mavupharma&amp;rft.date=2019-07-15&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fabbvie-enhances-early-stage-oncology-pipeline-with-acquisition-of-mavupharma%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.biospace.com/article/abbvie-announces-commencement-of-exchange-offers-and-consent-solicitations-for-allergan-notes/?s=79">https://www.biospace.com/article/abbvie-announces-commencement-of-exchange-offers-and-consent-solicitations-for-allergan-notes/?s=79</a></span>
+</li>
+<li id="cite_note-Forbes-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Forbes_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.forbes.com/sites/luketimmerman/2016/02/10/abbvie-maker-of-worlds-no-1-drug-bets-synthetic-biology-startup-can-keep-it-going/#26b6354972df">"AbbVie, Maker of World's No. 1 Drug, Bets Synthetic Biology Startup Can Raise the Bar"</a>. February 10, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 10,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AbbVie%2C+Maker+of+World%27s+No.+1+Drug%2C+Bets+Synthetic+Biology+Startup+Can+Raise+the+Bar&amp;rft.date=2016-02-10&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fluketimmerman%2F2016%2F02%2F10%2Fabbvie-maker-of-worlds-no-1-drug-bets-synthetic-biology-startup-can-keep-it-going%2F%2326b6354972df&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/abbvie-university-of-chicago-launch-cancer-research-alliance/81252632/">"AbbVie, University of Chicago Launch Cancer Research Alliance"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=AbbVie%2C+University+of+Chicago+Launch+Cancer+Research+Alliance&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fabbvie-university-of-chicago-launch-cancer-research-alliance%2F81252632%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/abbvie-to-co-develop-argen-x-s-cancer-immunotherapy-argx-115/81252638/">"AbbVie to Co-Develop argenx's Cancer Immunotherapy ARGX-115 - GEN News Highlights - GEN"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=AbbVie+to+Co-Develop+argenx%27s+Cancer+Immunotherapy+ARGX-115+-+GEN+News+Highlights+-+GEN&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fabbvie-to-co-develop-argen-x-s-cancer-immunotherapy-argx-115%2F81252638%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/abbvie-to-co-commercialize-cytomx-s-probody-drug-conjugates/81252642/">"AbbVie to Co-Commercialize CytomX's Probody Drug Conjugates"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=AbbVie+to+Co-Commercialize+CytomX%27s+Probody+Drug+Conjugates&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fabbvie-to-co-commercialize-cytomx-s-probody-drug-conjugates%2F81252642%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-WSJ_2016_jan-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-WSJ_2016_jan_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WSJ_2016_jan_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Walker, Joseph (1 January 2016). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/patients-struggle-with-high-drug-prices-1451557981">"Patients Struggle With High Drug Prices"</a>. <i>Wall Street Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Patients+Struggle+With+High+Drug+Prices&amp;rft.date=2016-01-01&amp;rft.au=Walker%2C+Joseph&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fpatients-struggle-with-high-drug-prices-1451557981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.hsj.co.uk/service-design/nhs-england-taken-to-court-over-largest-ever-medicines-procurement/7023733.article">"NHS England taken to court over 'largest ever medicines procurement<span class="cs1-kern-right">'</span>"</a>. Health Service Journal. 6 November 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=NHS+England+taken+to+court+over+%27largest+ever+medicines+procurement%27&amp;rft.date=2018-11-06&amp;rft_id=https%3A%2F%2Fwww.hsj.co.uk%2Fservice-design%2Fnhs-england-taken-to-court-over-largest-ever-medicines-procurement%2F7023733.article&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Talha Burki.<a rel="nofollow" class="external text" href="https://doi.org/10.1016/S0140-6736(19)30156-4">UK court dismisses AbbVie's legal challenge against the NHS</a> The Lancet. Volume 393, ISSUE 10169, P307-308, January 26, 2019</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Carroll, John (October 25, 2019). <a rel="nofollow" class="external text" href="https://endpts.com/abbvie-doubles-down-on-cystic-fibrosis-rd-adding-a-new-drug-to-the-pipeline-as-vertex-seals-its-domination-of-the-field-with-trikafta-ok/">"AbbVie doubles down on cystic fibrosis R&amp;D, adding a new drug to the pipeline as Vertex seals its domination of the field with Trikafta OK"</a>. <i>EndpointNews</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EndpointNews&amp;rft.atitle=AbbVie+doubles+down+on+cystic+fibrosis+R%26D%2C+adding+a+new+drug+to+the+pipeline+as+Vertex+seals+its+domination+of+the+field+with+Trikafta+OK&amp;rft.date=2019-10-25&amp;rft.aulast=Carroll&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fendpts.com%2Fabbvie-doubles-down-on-cystic-fibrosis-rd-adding-a-new-drug-to-the-pipeline-as-vertex-seals-its-domination-of-the-field-with-trikafta-ok%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbbVie+Inc." class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Business data for AbbVie: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ABBV">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ABBV">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ABBV">SEC filings</a></li></ul></div></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Pharmaceutical_companies_of_the_United_States" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Pharmaceutical_companies_of_the_United_States" title="Template:Pharmaceutical companies of the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pharmaceutical_companies_of_the_United_States" title="Template talk:Pharmaceutical companies of the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pharmaceutical_companies_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Pharmaceutical_companies_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Pharmaceutical_companies_of_the_United_States" title="Category:Pharmaceutical companies of the United States">Pharmaceutical companies of the United States</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbott_Laboratories" title="Abbott Laboratories">Abbott Laboratories</a></li>
+<li><a class="mw-selflink selflink">AbbVie Inc.</a></li>
+<li><a href="/wiki/Acorda_Therapeutics" title="Acorda Therapeutics">Acorda Therapeutics</a></li>
+<li><a href="/wiki/Aderis_Pharmaceuticals" title="Aderis Pharmaceuticals">Aderis</a></li>
+<li><a href="/wiki/Advaxis" title="Advaxis">Advaxis</a></li>
+<li><a href="/wiki/Alcon" title="Alcon">Alcon</a></li>
+<li><a href="/wiki/Alexion_Pharmaceuticals" title="Alexion Pharmaceuticals">Alexion</a></li>
+<li><a href="/wiki/Alnylam" class="mw-redirect" title="Alnylam">Alnylam</a></li>
+<li><a href="/wiki/Amgen" title="Amgen">Amgen</a></li>
+<li><a href="/wiki/Avax_Technologies" title="Avax Technologies">Avax Technologies</a></li>
+<li><a href="/wiki/Baxter_International" title="Baxter International">Baxter</a></li>
+<li><a href="/wiki/BioCryst_Pharmaceuticals" title="BioCryst Pharmaceuticals">BioCryst</a></li>
+<li><a href="/wiki/Biogen" title="Biogen">Biogen</a></li>
+<li><a href="/wiki/Bioverativ" title="Bioverativ">Bioverativ</a></li>
+<li><a href="/wiki/Biovest" title="Biovest">Biovest</a></li>
+<li><a href="/wiki/Biovista" title="Biovista">Biovista</a></li>
+<li><a href="/wiki/Bristol-Myers_Squibb" title="Bristol-Myers Squibb">Bristol-Myers Squibb</a></li>
+<li><a href="/wiki/Century_Pharmaceuticals" title="Century Pharmaceuticals">Century</a></li>
+<li><a href="/wiki/Ceragenix_Pharmaceuticals" title="Ceragenix Pharmaceuticals">Ceragenix</a></li>
+<li><a href="/wiki/Combe_Incorporated" title="Combe Incorporated">Combe</a></li>
+<li><a href="/wiki/CytoSport" title="CytoSport">CytoSport</a></li>
+<li><a href="/wiki/CytRx" title="CytRx">CytRx</a></li>
+<li><a href="/wiki/Danco_Laboratories" title="Danco Laboratories">Danco Laboratories</a></li>
+<li><a href="/wiki/Eli_Lilly_and_Company" title="Eli Lilly and Company">Eli Lilly</a></li>
+<li><a href="/wiki/Galena_Biopharma" title="Galena Biopharma">Galena Biopharma</a></li>
+<li><a href="/wiki/Genentech" title="Genentech">Genentech</a></li>
+<li><a href="/wiki/Gilead_Sciences" title="Gilead Sciences">Gilead Sciences</a></li>
+<li><a href="/wiki/Ionis_Pharmaceuticals" title="Ionis Pharmaceuticals">Ionis</a></li>
+<li><a href="/wiki/Institute_for_OneWorld_Health" class="mw-redirect" title="Institute for OneWorld Health">Institute for OneWorld Health</a></li>
+<li><a href="/wiki/Intercept_Pharmaceuticals" title="Intercept Pharmaceuticals">Intercept</a></li>
+<li><a href="/wiki/Johnson_%26_Johnson" title="Johnson &amp; Johnson">Johnson &amp; Johnson</a>
+<ul><li><a href="/wiki/Ethicon_Inc." title="Ethicon Inc.">Ethicon</a></li>
+<li><a href="/wiki/Janssen_Biotech" title="Janssen Biotech">Janssen Biotech</a></li>
+<li><a href="/wiki/McNeil_Consumer_Healthcare" title="McNeil Consumer Healthcare">McNeil Consumer Healthcare</a></li>
+<li><a href="/wiki/Ortho-McNeil_Pharmaceutical" title="Ortho-McNeil Pharmaceutical">Ortho-McNeil</a></li></ul></li>
+<li><a href="/wiki/Kinetic_Concepts" title="Kinetic Concepts">Kinetic Concepts</a></li>
+<li><a href="/wiki/McKesson_Corporation" title="McKesson Corporation">McKesson</a></li>
+<li><a href="/wiki/Melinta_Therapeutics" title="Melinta Therapeutics">Melinta Therapeutics</a></li>
+<li><a href="/wiki/Melior_Discovery" title="Melior Discovery">Melior Discovery</a></li>
+<li><a href="/wiki/Mentholatum" title="Mentholatum">Mentholatum</a></li>
+<li><a href="/wiki/Merck_%26_Co." title="Merck &amp; Co.">Merck &amp; Co.</a></li>
+<li><a href="/wiki/Merrimack_Pharmaceuticals" title="Merrimack Pharmaceuticals">Merrimack Pharmaceuticals</a></li>
+<li><a href="/wiki/Myriad_Genetics" title="Myriad Genetics">Myriad Genetics</a></li>
+<li><a href="/wiki/Northwest_Biotherapeutics" title="Northwest Biotherapeutics">Northwest Biotherapeutics</a></li>
+<li><a href="/wiki/Norwich_Pharma_Services" title="Norwich Pharma Services">Norwich Pharma</a></li>
+<li><a href="/wiki/NovaBay_Pharmaceuticals" title="NovaBay Pharmaceuticals">NovaBay</a></li>
+<li><a href="/wiki/Ovation_Pharmaceuticals" title="Ovation Pharmaceuticals">Ovation</a></li>
+<li><a href="/wiki/Pfizer" title="Pfizer">Pfizer</a>
+<ul><li><a href="/wiki/Hospira" title="Hospira">Hospira</a></li>
+<li><a href="/wiki/G.D._Searle,_LLC" title="G.D. Searle, LLC">Searle</a></li></ul></li>
+<li><a href="/wiki/Pharmaceutical_Product_Development" title="Pharmaceutical Product Development">Pharmaceutical Product Development</a></li>
+<li><a href="/wiki/Prasco_Laboratories" title="Prasco Laboratories">Prasco Laboratories</a></li>
+<li><a href="/wiki/Procter_%26_Gamble" title="Procter &amp; Gamble">Procter &amp; Gamble</a></li>
+<li><a href="/wiki/Proteon_Therapeutics" title="Proteon Therapeutics">Proteon Therapeutics</a></li>
+<li><a href="/wiki/Purdue_Pharma" title="Purdue Pharma">Purdue Pharma</a></li>
+<li><a href="/wiki/Quark_Pharmaceuticals" title="Quark Pharmaceuticals">Quark</a></li>
+<li><a href="/wiki/Regeneron_Pharmaceuticals" title="Regeneron Pharmaceuticals">Regeneron</a></li>
+<li><a href="/wiki/RespireRx" title="RespireRx">RespireRx</a></li>
+<li><a href="/wiki/Sarepta_Therapeutics" title="Sarepta Therapeutics">Sarepta Therapeutics</a></li>
+<li><a href="/wiki/Sheffield_Pharmaceuticals" title="Sheffield Pharmaceuticals">Sheffield</a></li>
+<li><a href="/wiki/Spectrum_Pharmaceuticals" title="Spectrum Pharmaceuticals">Spectrum</a></li>
+<li><a href="/wiki/Tec_Laboratories" title="Tec Laboratories">Tec Laboratories</a></li>
+<li><a href="/wiki/Titan_Pharmaceuticals" title="Titan Pharmaceuticals">Titan</a></li>
+<li><a href="/wiki/Trevena_Inc" title="Trevena Inc">Trevena Inc</a></li>
+<li><a href="/wiki/Upsher-Smith_Laboratories" title="Upsher-Smith Laboratories">Upsher-Smith</a></li>
+<li><a href="/wiki/Ventria_Bioscience" title="Ventria Bioscience">Ventria Bioscience</a></li>
+<li><a href="/wiki/Vertex_Pharmaceuticals" title="Vertex Pharmaceuticals">Vertex</a></li>
+<li><a href="/wiki/West_Pharmaceutical_Services" title="West Pharmaceutical Services">West Pharmaceutical Services</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland#List_of_inversions" title="Corporation tax in the Republic of Ireland">Irish tax inversion</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actavis" title="Actavis">Actavis</a> (2013)</li>
+<li><a href="/wiki/Alkermes_(company)" title="Alkermes (company)">Alkermes</a> (2011)</li>
+<li><a href="/wiki/Allergan" title="Allergan">Allergan</a> (2015)</li>
+<li><a href="/wiki/Covidien" title="Covidien">Covidien</a> (2007)</li>
+<li><a href="/wiki/Endo_International" title="Endo International">Endo International</a> (2014)</li>
+<li><a href="/wiki/Horizon_Therapeutics" title="Horizon Therapeutics">Horizon Therapeutics</a> (2014)</li>
+<li><a href="/wiki/Jazz_Pharmaceuticals" title="Jazz Pharmaceuticals">Jazz Pharmaceuticals</a> (2012)</li>
+<li><a href="/wiki/Mallinckrodt" title="Mallinckrodt">Mallinckrodt</a> (2013)</li>
+<li><a href="/wiki/Perrigo" title="Perrigo">Perrigo</a> (2013)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other <a href="/wiki/Tax_inversion" title="Tax inversion">tax inversion</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bausch_Health" title="Bausch Health">Bausch Health</a> (Canada, 2010)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ALZA" class="mw-redirect" title="ALZA">ALZA</a></li>
+<li><a href="/wiki/Allergan,_Inc." title="Allergan, Inc.">Allergan, Inc.</a></li>
+<li><a href="/wiki/Amylin_Pharmaceuticals" title="Amylin Pharmaceuticals">Amylin</a></li>
+<li><a href="/wiki/ARIAD_Pharmaceuticals" title="ARIAD Pharmaceuticals">ARIAD</a></li>
+<li><a href="/wiki/Barr_Pharmaceuticals" title="Barr Pharmaceuticals">Barr</a></li>
+<li><a href="/wiki/Biolex" title="Biolex">Biolex</a></li>
+<li><a href="/wiki/Bradley_Pharmaceuticals" title="Bradley Pharmaceuticals">Bradley</a></li>
+<li><a href="/wiki/CancerVax" title="CancerVax">CancerVax</a></li>
+<li><a href="/wiki/Cephalon" title="Cephalon">Cephalon</a></li>
+<li><a href="/wiki/CoTherix" title="CoTherix">CoTherix</a></li>
+<li><a href="/wiki/Covance" title="Covance">Covance</a></li>
+<li><a href="/wiki/Cubist_Pharmaceuticals" title="Cubist Pharmaceuticals">Cubist</a></li>
+<li><a href="/wiki/Cutter_Laboratories" title="Cutter Laboratories">Cutter Laboratories</a></li>
+<li><a href="/wiki/DNAPrint_Genomics" title="DNAPrint Genomics">DNAPrint Genomics</a></li>
+<li><a href="/wiki/Epix_Pharmaceuticals" title="Epix Pharmaceuticals">Epix</a></li>
+<li><a href="/wiki/Forest_Laboratories" title="Forest Laboratories">Forest Laboratories</a></li>
+<li><a href="/wiki/Genta_(company)" title="Genta (company)">Genta</a></li>
+<li><a href="/wiki/ImClone_Systems" title="ImClone Systems">ImClone Systems</a></li>
+<li><a href="/wiki/ISTA_Pharmaceuticals" title="ISTA Pharmaceuticals">ISTA</a></li>
+<li><a href="/wiki/King_Pharmaceuticals" title="King Pharmaceuticals">King</a></li>
+<li><a href="/wiki/KV_Pharmaceutical" title="KV Pharmaceutical">KV</a></li>
+<li><a href="/wiki/Leiner_Health_Products" title="Leiner Health Products">Leiner Health Products</a></li>
+<li><a href="/wiki/Martek_Biosciences_Corporation" title="Martek Biosciences Corporation">Martek Biosciences</a></li>
+<li><a href="/wiki/S._E._Massengill_Company" title="S. E. Massengill Company">Massengill</a></li>
+<li><a href="/wiki/Miles_Laboratories" title="Miles Laboratories">Miles Laboratories</a></li>
+<li><a href="/wiki/Naurex" class="mw-redirect" title="Naurex">Naurex</a></li>
+<li><a href="/wiki/Nereus_Pharmaceuticals" title="Nereus Pharmaceuticals">Nereus</a></li>
+<li><a href="/wiki/Nuvelo" title="Nuvelo">Nuvelo</a></li>
+<li><a href="/wiki/Organon_International" title="Organon International">Organon</a></li>
+<li><a href="/wiki/Ortho_Pharmaceutical" title="Ortho Pharmaceutical">Ortho</a></li>
+<li><a href="/wiki/OSI_Pharmaceuticals" title="OSI Pharmaceuticals">OSI</a></li>
+<li><a href="/wiki/Parke-Davis" title="Parke-Davis">Parke-Davis</a></li>
+<li><a href="/wiki/Repros_Therapeutics" title="Repros Therapeutics">Repros Therapeutics</a></li>
+<li><a href="/wiki/Qualitest" title="Qualitest">Qualitest</a></li>
+<li><a href="/wiki/Melinta_Therapeutics" title="Melinta Therapeutics">Rib-X</a></li>
+<li><a href="/wiki/Schering-Plough" title="Schering-Plough">Schering-Plough</a></li>
+<li><a href="/wiki/Smith,_Kline_%26_French" title="Smith, Kline &amp; French">Smith, Kline &amp; French</a></li>
+<li><a href="/wiki/Sterling_Drug" title="Sterling Drug">Sterling Drug</a></li>
+<li><a href="/wiki/Tanox" title="Tanox">Tanox</a></li>
+<li><a href="/wiki/TAP_Pharmaceutical_Products" class="mw-redirect" title="TAP Pharmaceutical Products">TAP</a></li>
+<li><a href="/wiki/Trubion" title="Trubion">Trubion</a></li>
+<li><a href="/wiki/Upjohn" title="Upjohn">Upjohn</a></li>
+<li><a href="/wiki/Verus_Pharmaceuticals" title="Verus Pharmaceuticals">Verus</a></li>
+<li><a href="/wiki/Vion_Pharmaceuticals,_Inc." title="Vion Pharmaceuticals, Inc.">Vion</a></li>
+<li><a href="/wiki/ViroPharma" title="ViroPharma">ViroPharma</a></li>
+<li><a href="/wiki/Wyeth" title="Wyeth">Wyeth</a></li>
+<li><a href="/wiki/Zonite_Products_Corporation" title="Zonite Products Corporation">Zonite</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_pharmaceutical_companies" title="List of pharmaceutical companies">List of pharmaceutical companies</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1231
+Cached time: 20200302221211
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.732 seconds
+Real time usage: 0.899 seconds
+Preprocessor visited node count: 2368/1000000
+Post‐expand include size: 87982/2097152 bytes
+Template argument size: 5081/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 84501/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.323/10.000 seconds
+Lua memory usage: 6.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  712.104      1 -total
+ 46.00%  327.591      1 Template:Reflist
+ 32.87%  234.053      1 Template:Infobox_company
+ 30.19%  214.951      1 Template:Infobox
+ 29.11%  207.284     17 Template:Cite_web
+ 10.29%   73.299      1 Template:Br_separated_entries
+  8.60%   61.236      4 Template:Wikidata
+  7.71%   54.915      1 Template:Short_description
+  6.56%   46.686      7 Template:Cite_news
+  5.26%   37.429      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37665564-0!canonical and timestamp 20200302221218 and revision id 943613079
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=AbbVie_Inc.&amp;oldid=943613079">https://en.wikipedia.org/w/index.php?title=AbbVie_Inc.&amp;oldid=943613079</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:AbbVie_Inc." title="Category:AbbVie Inc.">AbbVie Inc.</a></li><li><a href="/wiki/Category:2013_establishments_in_Illinois" title="Category:2013 establishments in Illinois">2013 establishments in Illinois</a></li><li><a href="/wiki/Category:Biotechnology_companies_of_the_United_States" title="Category:Biotechnology companies of the United States">Biotechnology companies of the United States</a></li><li><a href="/wiki/Category:Companies_based_in_Lake_County,_Illinois" title="Category:Companies based in Lake County, Illinois">Companies based in Lake County, Illinois</a></li><li><a href="/wiki/Category:Biotechnology_companies_established_in_2013" title="Category:Biotechnology companies established in 2013">Biotechnology companies established in 2013</a></li><li><a href="/wiki/Category:Pharmaceutical_companies_established_in_2013" title="Category:Pharmaceutical companies established in 2013">Pharmaceutical companies established in 2013</a></li><li><a href="/wiki/Category:American_companies_established_in_2013" title="Category:American companies established in 2013">American companies established in 2013</a></li><li><a href="/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange" title="Category:Companies listed on the New York Stock Exchange">Companies listed on the New York Stock Exchange</a></li><li><a href="/wiki/Category:Orphan_drug_companies" title="Category:Orphan drug companies">Orphan drug companies</a></li><li><a href="/wiki/Category:Pharmaceutical_companies_of_the_United_States" title="Category:Pharmaceutical companies of the United States">Pharmaceutical companies of the United States</a></li><li><a href="/wiki/Category:Health_care_companies_based_in_Illinois" title="Category:Health care companies based in Illinois">Health care companies based in Illinois</a></li><li><a href="/wiki/Category:Corporate_spin-offs" title="Category:Corporate spin-offs">Corporate spin-offs</a></li><li><a href="/wiki/Category:Abbott_Laboratories" title="Category:Abbott Laboratories">Abbott Laboratories</a></li><li><a href="/wiki/Category:2013_initial_public_offerings" title="Category:2013 initial public offerings">2013 initial public offerings</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=AbbVie+Inc." title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=AbbVie+Inc." title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/AbbVie_Inc." title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:AbbVie_Inc." rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/AbbVie_Inc.">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=AbbVie_Inc.&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=AbbVie_Inc.&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/AbbVie_Inc." title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/AbbVie_Inc." rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=AbbVie_Inc.&amp;oldid=943613079" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=AbbVie_Inc.&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14662364" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=AbbVie_Inc.&amp;id=943613079" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=AbbVie+Inc.">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=AbbVie+Inc.&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=AbbVie_Inc.&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D8%B1%D9%83%D8%A9_%D8%A3%D8%A8_%D9%81%D9%8A" title="شركة أب في – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/AbbVie" title="AbbVie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%E2%80%8C%D9%88%DB%8C" title="اب‌وی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/AbbVie" title="AbbVie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/AbbVie" title="AbbVie – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/AbbVie" title="AbbVie – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/AbbVie" title="AbbVie – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%B4%E3%82%A3" title="アッヴィ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/AbbVie" title="AbbVie – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Abbvie" title="Abbvie – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%AF%E7%BB%B4" title="艾伯维 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14662364#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 2 March 2020, at 22:12<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=AbbVie_Inc.&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.732","walltime":"0.899","ppvisitednodes":{"value":2368,"limit":1000000},"postexpandincludesize":{"value":87982,"limit":2097152},"templateargumentsize":{"value":5081,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":84501,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  712.104      1 -total"," 46.00%  327.591      1 Template:Reflist"," 32.87%  234.053      1 Template:Infobox_company"," 30.19%  214.951      1 Template:Infobox"," 29.11%  207.284     17 Template:Cite_web"," 10.29%   73.299      1 Template:Br_separated_entries","  8.60%   61.236      4 Template:Wikidata","  7.71%   54.915      1 Template:Short_description","  6.56%   46.686      7 Template:Cite_news","  5.26%   37.429      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.323","limit":"10.000"},"limitreport-memusage":{"value":6746598,"limit":52428800}},"cachereport":{"origin":"mw1231","timestamp":"20200302221211","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"AbbVie Inc.","url":"https:\/\/en.wikipedia.org\/wiki\/AbbVie_Inc.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q14662364","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q14662364","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-11-17T01:27:20Z","dateModified":"2020-03-02T22:12:18Z","headline":"pharmaceutical company"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1368"});});</script></body></html>

@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Air Products &amp; Chemicals - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xl16cwpAICsAAGyJJEwAAADP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Air_Products_\u0026_Chemicals","wgTitle":"Air Products \u0026 Chemicals","wgCurRevisionId":923184087,"wgRevisionId":923184087,"wgArticleId":1945604,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from April 2019","Articles with permanently dead external links","Articles with short description",
+"All articles with unsourced statements","Articles with unsourced statements from December 2013","Commons category link is on Wikidata","Chemical companies of the United States","Companies listed on the New York Stock Exchange","Manufacturing companies based in Pennsylvania","Companies based in Lehigh County, Pennsylvania","Chemical companies established in 1940","1940 establishments in Michigan","Industrial gases","American companies established in 1940"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Air_Products_\u0026_Chemicals","wgRelevantArticleId":1945604,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Air_Products_\u0026_Chemicals_Inc","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
+"pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Air_Products_%26_Chemicals","wgWikibaseItemId":"Q407744","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site",
+"mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Air_Products_%26_Chemicals"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Air_Products_Chemicals rootpage-Air_Products_Chemicals skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Air Products &amp; Chemicals</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Air_Products_%26_Chemicals_Inc&amp;redirect=no" class="mw-redirect" title="Air Products &amp; Chemicals Inc">Air Products &amp; Chemicals Inc</a>)</span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American multinational company</div>
+<div role="note" class="hatnote navigation-not-searchable">"Air Products" redirects here. For the former aircraft manufacturer, see <a href="/wiki/ERCO_Ercoupe" title="ERCO Ercoupe">ERCO Ercoupe</a>.</div>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Air Products and Chemicals, Inc</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Logo_Air_Products.svg" class="image"><img alt="Logo Air Products.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_Air_Products.svg/220px-Logo_Air_Products.svg.png" decoding="async" width="220" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_Air_Products.svg/330px-Logo_Air_Products.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_Air_Products.svg/440px-Logo_Air_Products.svg.png 2x" data-file-width="1330" data-file-height="283" /></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded&#160;as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>:&#160;<a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:APD">APD</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 component</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US0091581068">US0091581068&#160;</a><a href="https://www.wikidata.org/wiki/Q407744?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Industrial_gas" title="Industrial gas">Industrial gas</a>, <a href="/wiki/Chemicals" class="mw-redirect" title="Chemicals">chemicals</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;"><a href="/wiki/Detroit,_Michigan" class="mw-redirect" title="Detroit, Michigan">Detroit</a>, Michigan (1940<span class="noprint">&#59;&#32;80&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1940</span>)</span>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/w/index.php?title=Leonard_P._Pool&amp;action=edit&amp;redlink=1" class="new" title="Leonard P. Pool (page does not exist)">Leonard P. Pool</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;">7201 Hamilton Blvd., <a href="/wiki/Allentown,_Pennsylvania" title="Allentown, Pennsylvania">Allentown</a>, Pennsylvania, US</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;"><a href="/wiki/World" title="World">Worldwide</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Seifi Ghasemi <b><small>(<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>),<br />(<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">chairman</a>) and (<a href="/wiki/President_(corporate_title)" title="President (corporate title)">president</a>)</small></b></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 9.895&#160;billion (2015) <sup id="cite_ref-xbrlus_1_1-0" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 10.439&#160;billion (2014) <sup id="cite_ref-xbrlus_1_1-1" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 1.884&#160;billion (2015) <sup id="cite_ref-xbrlus_1_1-2" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 1.657&#160;billion (2014) <sup id="cite_ref-xbrlus_1_1-3" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 1.427&#160;billion (2015) <sup id="cite_ref-xbrlus_1_1-4" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 1.243&#160;billion (2014) <sup id="cite_ref-xbrlus_1_1-5" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 17.438&#160;billion (2015) <sup id="cite_ref-xbrlus_1_1-6" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 17.779&#160;billion (2014) <sup id="cite_ref-xbrlus_1_1-7" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 7.249&#160;billion (2015) <sup id="cite_ref-xbrlus_1_1-8" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> US$ 7.521&#160;billion (2014) <sup id="cite_ref-xbrlus_1_1-9" class="reference"><a href="#cite_note-xbrlus_1-1">&#91;1&#93;</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">15,150 <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>&#160;(2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="http://airproducts.com/">airproducts.com</a></td></tr></tbody></table>
+<p><b>Air Products and Chemicals, Inc.</b> is an American international <a href="/wiki/Corporation" title="Corporation">corporation</a> whose principal business is selling <a href="/wiki/Industrial_gas" title="Industrial gas">gases</a> and <a href="/wiki/Chemical" class="mw-redirect" title="Chemical">chemicals</a> for industrial uses. Air Products' headquarters is in <a href="/wiki/Allentown,_Pennsylvania" title="Allentown, Pennsylvania">Allentown</a>, Pennsylvania, in the <a href="/wiki/Lehigh_Valley" title="Lehigh Valley">Lehigh Valley</a> region of <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, in the <a href="/wiki/United_States" title="United States">United States</a>.  Air Products is the Lehigh Valley's third largest employer, after <a href="/wiki/Lehigh_Valley_Hospital" title="Lehigh Valley Hospital">Lehigh Valley Hospital</a> and St. Luke's Hospital. Leonard P. Pool founded the company in 1940. Its French subsidiary, headquartered in <a href="/wiki/Saint-Quentin-Fallavier" title="Saint-Quentin-Fallavier">Saint-Quentin-Fallavier</a>, was the site of a <a href="/wiki/2015_Saint-Quentin-Fallavier_attack" class="mw-redirect" title="2015 Saint-Quentin-Fallavier attack">terrorist attack</a> on June 26, 2015.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Air Product's current CEO and Chairman is Sefi Ghasemi.
+</p><p>On September 17, 2015 Air Products announced its intent to spin off its Materials Technologies business.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> This new stand alone company has been renamed <a href="/wiki/Versum_Materials" title="Versum Materials">Versum Materials</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Products"><span class="tocnumber">1</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Environmental_record"><span class="tocnumber">2</span> <span class="toctext">Environmental record</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Corporate_responsibility"><span class="tocnumber">3</span> <span class="toctext">Corporate responsibility</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit&amp;section=1" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Air Products serves customers in technology, energy, healthcare, food and industrial markets worldwide with <a href="/wiki/Atmospheric" class="mw-redirect" title="Atmospheric">atmospheric</a> <a href="/wiki/Industrial_gases" class="mw-redirect" title="Industrial gases">industrial gases</a> (mainly <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Argon" title="Argon">argon</a>, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>), process and specialty gases, performance materials and chemical intermediates.
+</p><p>Air Products produces <a href="/wiki/Semiconductor" title="Semiconductor">semiconductor</a> materials, <a href="/wiki/Hydrogen" title="Hydrogen">refinery hydrogen</a>, <a href="/wiki/Lng#Liquefaction_technology" class="mw-redirect" title="Lng">natural gas liquefaction (LNG) technology and equipment</a>, <a href="/wiki/Epoxy" title="Epoxy">epoxy</a> additives, <a href="/wiki/Gas_cabinet" title="Gas cabinet">gas cabinets</a>, advanced coatings and <a href="/wiki/Adhesives" class="mw-redirect" title="Adhesives">adhesives</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>&#93;</sup>  It is also noted<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>&#93;</sup> as addressing the <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> economy through <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> fueling stations as well as its <a href="/wiki/Personal_care" title="Personal care">personal care</a> chemicals business.
+</p><p>Air Products also provided the liquid hydrogen and <a href="/wiki/Liquid_oxygen" title="Liquid oxygen">liquid oxygen</a> fuel for the <a href="/wiki/Space_Shuttle_External_Tank" class="mw-redirect" title="Space Shuttle External Tank">Space Shuttle External Tank</a>. Air Products has had a working relationship with <a href="/wiki/NASA" title="NASA">NASA</a> for 50 years and has supplied the <a href="/wiki/Liquid_hydrogen" title="Liquid hydrogen">liquid hydrogen</a> used for every <a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a> launch and the <a href="/wiki/Project_Mercury" title="Project Mercury">Mercury</a> and <a href="/wiki/Apollo_program" title="Apollo program">Apollo</a> missions.
+<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In 2013, Air Products' high purity BIP (built-in purifier) argon was used to determine a more accurate value for the <a href="/wiki/Boltzmann_Constant" class="mw-redirect" title="Boltzmann Constant">Boltzmann Constant</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Environmental_record">Environmental record</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit&amp;section=2" title="Edit section: Environmental record">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2010, Air Products was awarded the Rushlight Hydrogen and Fuel Cells industry award for the Series 10 hydrogen fuelling station. The Rushlight Awards celebrate the leading environmental technologies and innovations by organizations throughout the UK and Ireland. The purpose is to promote what is happening in the world of hydrogen and fuel cells to the public and enable further development and funding to be granted toward reducing carbon emissions.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Air_Products_van_on_Woodhouse_Lane_in_Leeds_(4th_May_2010).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Air_Products_van_on_Woodhouse_Lane_in_Leeds_%284th_May_2010%29.jpg/220px-Air_Products_van_on_Woodhouse_Lane_in_Leeds_%284th_May_2010%29.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Air_Products_van_on_Woodhouse_Lane_in_Leeds_%284th_May_2010%29.jpg/330px-Air_Products_van_on_Woodhouse_Lane_in_Leeds_%284th_May_2010%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Air_Products_van_on_Woodhouse_Lane_in_Leeds_%284th_May_2010%29.jpg/440px-Air_Products_van_on_Woodhouse_Lane_in_Leeds_%284th_May_2010%29.jpg 2x" data-file-width="3872" data-file-height="2592" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Air_Products_van_on_Woodhouse_Lane_in_Leeds_(4th_May_2010).jpg" class="internal" title="Enlarge"></a></div>An Air Products van in <a href="/wiki/Leeds" title="Leeds">Leeds</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>.</div></div></div>
+<p>On January 15, 2004, Air Products (NYSE: APD) was named a Maplecroft Climate Innovation Indexes (CIIs) Leader, ranking 17th out of the 300 largest US companies evaluated for their climate-related innovation and carbon management programs. Air Products is currently working on several preeminent <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a> demonstration projects around the world.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Air Products was included on the <a href="/wiki/Dow_Jones_Sustainability_Index" class="mw-redirect" title="Dow Jones Sustainability Index">Dow Jones Sustainability North America Index</a> as one of the best performing sustainable companies for 2008/11.  Only the top 20 percent of the 600 largest companies largest North American companies are selected for the DJSI North America Index.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In 2001, Air Products Received an Award of Merit from the WateReuse Association for Outstanding Water Conservation Efforts for conserving 62&#160;million US gallons (230,000&#160;m<sup>3</sup>) of drinking water annually by converting to recycled water for the cooling process at the Santa Clara, <a href="/wiki/California" title="California">California</a>, manufacturing facility. The award was presented during the 25th Annual WateReuse Symposium. WRA recognizes projects that have advanced the acceptance of water reuse through <a href="/wiki/Education" title="Education">education</a>, sound science, and technology using reclamation, <a href="/wiki/Recycling" title="Recycling">recycling</a>, reuse, or <a href="/wiki/Desalination" title="Desalination">desalination</a> for the benefit of the public and the environment.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Corporate_responsibility">Corporate responsibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit&amp;section=3" title="Edit section: Corporate responsibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Air_Products_Headquarters,_Trexlertown.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Air_Products_Headquarters%2C_Trexlertown.JPG/220px-Air_Products_Headquarters%2C_Trexlertown.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Air_Products_Headquarters%2C_Trexlertown.JPG/330px-Air_Products_Headquarters%2C_Trexlertown.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Air_Products_Headquarters%2C_Trexlertown.JPG/440px-Air_Products_Headquarters%2C_Trexlertown.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Air_Products_Headquarters,_Trexlertown.JPG" class="internal" title="Enlarge"></a></div>Air Products Headquarters.</div></div></div>
+<p>On March 4, 2010, Corporate Responsibility Magazine named Air Products to its 100 Best Corporate Citizens List.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-xbrlus_1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/2969/000119312515386399/0001193125-15-386399-index.htm">"AIR PRODUCTS &amp; CHEMICALS INC 2015 Annual Report Form (10-K)"</a> <span class="cs1-format">(XBRL)</span>. United States Securities and Exchange Commission. November 11, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AIR+PRODUCTS+%26+CHEMICALS+INC+2015+Annual+Report+Form+%2810-K%29&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft.date=2015-11-11&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F2969%2F000119312515386399%2F0001193125-15-386399-index.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+Products+%26+Chemicals" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/air-products-chemicals/">"Air Products &amp; Chemicals"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Air+Products+%26+Chemicals&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fair-products-chemicals%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+Products+%26+Chemicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Peter Walker, <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2015/jun/26/one-dead-in-attack-on-french-factory">Decapitated body and Islamist flag found in attack on factory in France</a>, <i>The Guardian</i>, June 26, 2015</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.airproducts.com/Company/news-center/2015/09/0916-materials-technologies-announcement.aspx">"Air Products Announces Intent to Spin-Off Materials Technologies Business"</a>. <i>www.airproducts.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.airproducts.com&amp;rft.atitle=Air+Products+Announces+Intent+to+Spin-Off+Materials+Technologies+Business&amp;rft_id=http%3A%2F%2Fwww.airproducts.com%2FCompany%2Fnews-center%2F2015%2F09%2F0916-materials-technologies-announcement.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+Products+%26+Chemicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nasa.gov/centers/langley/news/researchernews/rn_groundbreakingNTF.html">Air Products and NASA</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">de Podesta, Michael; Underwood, Robin;  et al. (11 July 2013). <a rel="nofollow" class="external text" href="https://www.researchgate.net/profile/Graham_Machin/publication/258263470_A_low-uncertainty_measurement_of_the_Boltzmann_constant/links/546a39f50cf2397f783014c5.pdf">"A low-uncertainty measurement of the Boltzmann constant"</a> <span class="cs1-format">(PDF)</span>. <i>Metrologia</i>. <b>50</b> (4): 354–375. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1088%2F0026-1394%2F50%2F4%2F354">10.1088/0026-1394/50/4/354</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Metrologia&amp;rft.atitle=A+low-uncertainty+measurement+of+the+Boltzmann+constant&amp;rft.volume=50&amp;rft.issue=4&amp;rft.pages=354-375&amp;rft.date=2013-07-11&amp;rft_id=info%3Adoi%2F10.1088%2F0026-1394%2F50%2F4%2F354&amp;rft.aulast=de+Podesta&amp;rft.aufirst=Michael&amp;rft.au=Underwood%2C+Robin&amp;rft.au=Sutton%2C+Gavin&amp;rft.au=Morantz%2C+Paul&amp;rft.au=Harris%2C+Peter&amp;rft.au=Mark%2C+Darren+F.&amp;rft.au=Stuart%2C+Finlay+M.&amp;rft.au=Vargha%2C+Gergely&amp;rft.au=Machin%2C+Graham&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FGraham_Machin%2Fpublication%2F258263470_A_low-uncertainty_measurement_of_the_Boltzmann_constant%2Flinks%2F546a39f50cf2397f783014c5.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+Products+%26+Chemicals" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.airproducts.com/company/news-center/2010/02/0211-air-products-receives-rushlight-hydrogen-and-fuel-cell-award.aspx">[1]</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/air-products-named-a-maplecroft-climate-innovation-indexes-ciis-leader-82724847.html">Air Products Named a Maplecroft Climate Innovation Indexes (CIIs) Leader</a> PR News</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/news/Air-Products-Named-to-the-Dow-prnews-3067799923.html?x=0&amp;.v=1">Air Products Named to the Dow Jones Sustainability North America Index</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since April 2019">permanent dead link</span></a></i>&#93;</span></sup> Yahoo Finance September 10, 2010</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.earthtimes.org/articles/press/outstanding-water-conservation-efforts,1471868.html">Air Products Receives Award of Merit from WateReuse Association for Outstanding Water Conservation Efforts</a> Earth Times September 22, 2010</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/air-products-named-to-100-best-corporate-citizens-list-for-2010-by-corporate-responsibility-magazine-86355967.html">Air Products Named to 100 Best Corporate Citizens List for 2010 by Corporate Responsibility Magazine</a> PR News</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul>
+<li><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Air_Products_%26_Chemicals" class="extiw" title="commons:Category:Air Products &amp; Chemicals"><span style="">Air Products &amp; Chemicals</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://airproducts.com">Official website</a></span></span></li>
+<li>Business data for Air Products &amp; Chemicals: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=APD">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=APD">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=APD">SEC filings</a></li></ul></div></li></ul>
+<div style="clear:both;"></div>
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20200302154632
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.464 seconds
+Real time usage: 0.703 seconds
+Preprocessor visited node count: 2045/1000000
+Post‐expand include size: 46032/2097152 bytes
+Template argument size: 8754/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18732/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.247/10.000 seconds
+Lua memory usage: 6.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  637.558      1 -total
+ 29.22%  186.287      1 Template:Infobox_company
+ 26.90%  171.508      1 Template:Infobox
+ 17.24%  109.935      3 Template:Cite_web
+ 10.15%   64.742      2 Template:Citation_needed
+  9.62%   61.336      3 Template:Fix
+  9.29%   59.232      7 Template:Wikidata
+  9.09%   57.984      1 Template:Br_separated_entries
+  8.94%   57.010      1 Template:Short_description
+  8.60%   54.824      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1945604-0!canonical and timestamp 20200302154631 and revision id 923184087
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Air_Products_%26_Chemicals&amp;oldid=923184087">https://en.wikipedia.org/w/index.php?title=Air_Products_%26_Chemicals&amp;oldid=923184087</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_companies_of_the_United_States" title="Category:Chemical companies of the United States">Chemical companies of the United States</a></li><li><a href="/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange" title="Category:Companies listed on the New York Stock Exchange">Companies listed on the New York Stock Exchange</a></li><li><a href="/wiki/Category:Manufacturing_companies_based_in_Pennsylvania" title="Category:Manufacturing companies based in Pennsylvania">Manufacturing companies based in Pennsylvania</a></li><li><a href="/wiki/Category:Companies_based_in_Lehigh_County,_Pennsylvania" title="Category:Companies based in Lehigh County, Pennsylvania">Companies based in Lehigh County, Pennsylvania</a></li><li><a href="/wiki/Category:Chemical_companies_established_in_1940" title="Category:Chemical companies established in 1940">Chemical companies established in 1940</a></li><li><a href="/wiki/Category:1940_establishments_in_Michigan" title="Category:1940 establishments in Michigan">1940 establishments in Michigan</a></li><li><a href="/wiki/Category:Industrial_gases" title="Category:Industrial gases">Industrial gases</a></li><li><a href="/wiki/Category:American_companies_established_in_1940" title="Category:American companies established in 1940">American companies established in 1940</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_April_2019" title="Category:Articles with dead external links from April 2019">Articles with dead external links from April 2019</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">Articles with unsourced statements from December 2013</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Air+Products+%26+Chemicals" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Air+Products+%26+Chemicals" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Air_Products_%26_Chemicals" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Air_Products_%26_Chemicals" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Air_Products_%26_Chemicals">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Air_Products_%26_Chemicals" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Air_Products_%26_Chemicals" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;oldid=923184087" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q407744" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Air_Products_%26_Chemicals&amp;id=923184087" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		In other projects
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Air_Products_%26_Chemicals" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Air+Products+%26+Chemicals">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Air+Products+%26+Chemicals&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Air_Products_%26_Chemicals&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Air_Products_%26_Chemicals" title="Air Products &amp; Chemicals – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Air_Products" title="Air Products – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Air_Products_%26_Chemicals" title="Air Products &amp; Chemicals – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Air_Products_and_Chemicals" title="Air Products and Chemicals – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Air_Products" title="Air Products – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Air_Products_%26_Chemicals" title="Air Products &amp; Chemicals – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A9%BA%E6%B0%A3%E5%8C%96%E5%B7%A5" title="空氣化工 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q407744#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 26 October 2019, at 22:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Air_Products_%26_Chemicals&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.703","ppvisitednodes":{"value":2045,"limit":1000000},"postexpandincludesize":{"value":46032,"limit":2097152},"templateargumentsize":{"value":8754,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18732,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  637.558      1 -total"," 29.22%  186.287      1 Template:Infobox_company"," 26.90%  171.508      1 Template:Infobox"," 17.24%  109.935      3 Template:Cite_web"," 10.15%   64.742      2 Template:Citation_needed","  9.62%   61.336      3 Template:Fix","  9.29%   59.232      7 Template:Wikidata","  9.09%   57.984      1 Template:Br_separated_entries","  8.94%   57.010      1 Template:Short_description","  8.60%   54.824      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.247","limit":"10.000"},"limitreport-memusage":{"value":7097319,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20200302154632","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Air Products & Chemicals","url":"https:\/\/en.wikipedia.org\/wiki\/Air_Products_%26_Chemicals","sameAs":"http:\/\/www.wikidata.org\/entity\/Q407744","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q407744","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-26T19:48:13Z","dateModified":"2019-10-26T22:42:33Z","headline":"company"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1322"});});</script></body></html>
