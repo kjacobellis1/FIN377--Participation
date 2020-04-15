@@ -3,7 +3,7 @@
 
 This repo includes folders of the comprehensive material and lines of code that I learned in class!
 
-### There are 5 folders inside this repo:
+### There are 6 folders inside this repo:
 1. **navigating_github.md**
   - This is a markdown file started early on in the semester used to store useful info.
   - It contains:
@@ -19,5 +19,8 @@ This repo includes folders of the comprehensive material and lines of code that 
   - This is a folder for our livecoding files from Lecture 1 to Lecture 20
 5. **.gitignore**
   - This folder is created so the GitHub master repo doesn’t have unnecessary files
+6. **misc/**
+  - This folder contains files that aren’t listed above but that I want to keep
+  - Livecoding for lectures 21-23 are also included in here!
   
 #### ENJOY! :boom:
