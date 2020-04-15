@@ -1,16 +1,16 @@
-# Markdown Features
-#### Emphasis: 
+# Three examples of Markdown Features
+#### 1) Emphasis: 
 - *This text will be italic*
 _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 *You **can** combine them*
 
-#### Images:
+#### 2) Images:
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-#### Orders:
+#### 3) Orders:
 1. Item 1
 2. Item 2
 3. Item 3
